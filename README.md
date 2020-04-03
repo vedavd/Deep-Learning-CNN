@@ -20,3 +20,18 @@ The Code involves building model applying Logistic Regression
 ###### The Accuracy,Precision,Recall and F1 Score is calculated.
 ###### k-Fold Cross Validation
 ###### Model tuning using GridSearchCV
+
+
+# Fashion Class Image Classification using Convolution Neural Networks
+
+### Dataset used: 
+###### MNIST Dataset
+
+### Python Code Files:
+###### Fashion MNIST
+
+### Sections:
+###### importing data
+###### visualizing dataset
+###### model training
+###### model evaluation
